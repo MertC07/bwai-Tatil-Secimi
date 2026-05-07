@@ -1,4 +1,4 @@
-# 🏖️ Tatil Karar Motoru (AI Travel Decision Engine)
+# 🏖️ Tatil Karar Motoru (Build With AI Türkiye - Google Developer Communities Turkey)
 
 Yapay zeka destekli bu web uygulaması, kullanıcıların tatil rotalarını bütçe, lokasyon ve aktivite beklentilerine göre analiz eder. Aday rotalar arasından en mantıklı kararı vererek artı ve eksi yönleriyle birlikte kullanıcıya sunar.
 
